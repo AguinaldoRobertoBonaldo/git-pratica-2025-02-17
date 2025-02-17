@@ -1,5 +1,5 @@
 # git-pratica-2025-02-17
 
-Aguinaldo / Wesley
+Este é um repositório de prática de Git.
 
-Alteração a ser revertida
+Aguinaldo / Wesley
